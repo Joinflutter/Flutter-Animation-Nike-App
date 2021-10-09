@@ -1,4 +1,6 @@
-# nike_app
+# Flutter Animation (Nike App)
+
+![How to make a splash screen in Flutter](https://user-images.githubusercontent.com/87581799/136671455-e6506fb2-949e-4716-8dd8-60402ddbdf26.png)
 
 A new Flutter project.
 
